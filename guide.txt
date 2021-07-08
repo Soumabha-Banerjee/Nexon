@@ -1,0 +1,24 @@
+Hey this is Project Nexon
+
+Nexon is a vartual assistence which can perform very besic tasks such as mail,datetime,gettting information from internet,opening application and many more
+
+
+
+Implimentation is on python
+
+
+
+Open the nexon.py file
+
+
+
+download and run it on vs code(or use any python ide)
+
+
+
+open terminal and install modules which are used in this code
+
+to install modules run following commands on terminal:
+pip install pyttsx3
+pip install speechRecognition
+pip install wikipedia
